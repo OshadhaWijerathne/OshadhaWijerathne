@@ -25,7 +25,7 @@ strong passion for machine learning 🧠, natural language processing 📜, and 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 **How to reach me:** oshadha.20@cse.mrt.ac.lk  
+- 📫 **How to reach me:** rwkoshadhawijerathne@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
